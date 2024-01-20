@@ -1,1 +1,2 @@
 Changes have been made
+Changing the Git commit message editor.
